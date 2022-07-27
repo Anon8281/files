@@ -1,0 +1,61 @@
+{
+  "requirements": {
+    "JVM_BUILD": 3,
+    "JVM_VERSION": 17
+  },
+  "packages": [
+    {
+      "jvm": [
+        {
+          "bitness": 64,
+          "sha256": "5c9383c30d14a4c338bfe2c3d401bbb919e8e66aa5a042ddcb17de50cbb26dab",
+          "url": "https://download.bell-sw.com/java/17.0.3.1+2/bellsoft-jre17.0.3.1+2-windows-i586.zip"
+        },
+        {
+          "bitness": 32,
+          "sha256": "5c9383c30d14a4c338bfe2c3d401bbb919e8e66aa5a042ddcb17de50cbb26dab",
+          "url": "https://download.bell-sw.com/java/17.0.3.1+2/bellsoft-jre17.0.3.1+2-windows-i586.zip"
+        }
+      ],
+      "OS": "LINUX"
+    },
+    {
+      "jvm": [
+        {
+          "bitness": 64,
+          "sha256": "5c9383c30d14a4c338bfe2c3d401bbb919e8e66aa5a042ddcb17de50cbb26dab",
+          "url": "https://download.bell-sw.com/java/17.0.3.1+2/bellsoft-jre17.0.3.1+2-windows-i586.zip"
+        },
+        {
+          "bitness": 32,
+          "sha256": "5c9383c30d14a4c338bfe2c3d401bbb919e8e66aa5a042ddcb17de50cbb26dab",
+          "url": "https://download.bell-sw.com/java/17.0.3.1+2/bellsoft-jre17.0.3.1+2-windows-i586.zip"
+        }
+      ],
+      "OS": "MUSTDIE"
+    },
+    {
+      "jvm": [
+        {
+          "bitness": 64,
+          "sha256": "5c9383c30d14a4c338bfe2c3d401bbb919e8e66aa5a042ddcb17de50cbb26dab",
+          "url": "https://download.bell-sw.com/java/17.0.3.1+2/bellsoft-jre17.0.3.1+2-windows-i586.zip"
+        },
+        {
+          "bitness": 32,
+          "sha256": "5c9383c30d14a4c338bfe2c3d401bbb919e8e66aa5a042ddcb17de50cbb26dab",
+          "url": "https://download.bell-sw.com/java/17.0.3.1+2/bellsoft-jre17.0.3.1+2-windows-i586.zip"
+        }
+      ],
+      "OS": "MACOSX"
+    }
+  ],
+  "launcher": [
+	"sha256": "idk lol"
+	"url": "https://politcubes.ru/downloads/politcubes.jar"
+  ],
+  "config": {
+    "ON_JRE_DETAILS_ERROR": true,
+    "JRE_ON_JRE_BITS_NOT_MATCH_OS": false
+  }
+}
