@@ -51,8 +51,10 @@
     }
   ],
   "launcher": [
-	"sha256": "idk lol"
-	"url": "https://politcubes.ru/downloads/politcubes.jar"
+    {
+      "sha256": "idk lol",
+      "url": "https://politcubes.ru/downloads/politcubes.jar"
+    }
   ],
   "config": {
     "ON_JRE_DETAILS_ERROR": true,
